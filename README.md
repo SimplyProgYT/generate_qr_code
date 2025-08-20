@@ -1,4 +1,4 @@
-# generate_qr_code
+# qr-code-generator
 
 This project is a Python application that generates QR codes, including custom-designed ones. It uses the `qrcode` and `Pillow` libraries to create and manipulate QR codes.
 
